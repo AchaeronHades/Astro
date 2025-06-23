@@ -1,7 +1,7 @@
 # Astro
 A cute little voice assistant for your desk.
 
-First, thank you to to RealDeco for allowing me to cannibalise his code - mine could be a bit of a mess, but it seems to work.
+First, thank you to to @RealDeco for allowing me to cannibalise his code - mine could be a bit of a mess, but it seems to work.
 
 Next, this is really just a proof of concept - I wanted something for my 5yo daughter to get excited about, and she absolutely loves it.
 
